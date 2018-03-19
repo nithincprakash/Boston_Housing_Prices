@@ -1,2 +1,2 @@
 # IMDB_data_analysis
-Udacity Project
+Please find the file TMDB_analysis (1).ipynb for project details
