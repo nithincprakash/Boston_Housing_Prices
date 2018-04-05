@@ -1,2 +1,2 @@
-# IMDB_data_analysis
-Please find the file TMDB_analysis (1).ipynb for project details
+# Boston House price prediction
+Please find the file boston_housing.html and boston_housing.pynb files. 
